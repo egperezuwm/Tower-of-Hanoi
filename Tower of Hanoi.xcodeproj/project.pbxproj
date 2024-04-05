@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		0F48CC692BB5FDEA00BC74BC /* Tower of Hanoi */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Tower of Hanoi"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F48CC6C2BB5FDEA00BC74BC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		0F48CC732BB5FE0500BC74BC /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		0F48CC742BBB54B500BC74BC /* Node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				0F48CC6C2BB5FDEA00BC74BC /* main.c */,
+				0F48CC732BB5FE0500BC74BC /* Stack.h */,
+				0F48CC742BBB54B500BC74BC /* Node.h */,
 			);
 			path = "Tower of Hanoi";
 			sourceTree = "<group>";
